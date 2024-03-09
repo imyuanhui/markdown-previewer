@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/markdown-reviewer/static/css/main.f16d6aa2.css",
+    "main.js": "/markdown-reviewer/static/js/main.c91a1aac.js",
+    "index.html": "/markdown-reviewer/index.html",
+    "main.f16d6aa2.css.map": "/markdown-reviewer/static/css/main.f16d6aa2.css.map",
+    "main.c91a1aac.js.map": "/markdown-reviewer/static/js/main.c91a1aac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f16d6aa2.css",
+    "static/js/main.c91a1aac.js"
+  ]
+}
